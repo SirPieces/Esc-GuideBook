@@ -15,7 +15,7 @@ Add to items.lua
 ```	
 ['welcomebooklet']			  = {['name'] = "welcomebooklet",					['label'] = "Guide Book",			['weight'] = 500,		['type'] = 'item', 		['image'] = 'welcomebooklet.png',	  ['unique'] = true,		['useable']	= true,		['shouldClose'] = true,	   ['combinable'] = nil,  ['description'] = "A Guidebook, for new-comers!"},
 ```
-``` ```
+
 Esc-GuideBook
 
 Tebex : https://esc.tebex.io/category/escape
