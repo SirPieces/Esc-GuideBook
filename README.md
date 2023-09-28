@@ -8,7 +8,7 @@ Image for welcome booklet if wanted.
 
 ![welcomebooklet](https://github.com/SirPieces/Esc-GuideBook/assets/47084448/1255367e-5361-46e8-bc70-2b514ae6deee)
 
-*Disclaimer i want to say that all credits goto EscStore, and ill ive done is try implement it for QBCore.*
+*Disclaimer i want to say that all credits goto EscStore, and all ive done is try implement it for QBCore.*
 
 Esc-GuideBook
 
