@@ -1,14 +1,19 @@
+Esc-GuideBook
+
+Tebex : https://esc.tebex.io/category/escape
+
+Preview : https://youtu.be/f0ELwjZUdhE?si=citf1HE2rGRFXF5d
+
+Discord : https://discord.com/invite/823tgT9wnr
+
+*Disclaimer i want to say that all credits goto EscStore, and all ive done is try implement it for QBCore.*
+
 ***Edit for QBCore***
 
 Add to items.lua
 ```	
 ['welcomebooklet']			  = {['name'] = "welcomebooklet",					['label'] = "Guide Book",			['weight'] = 500,		['type'] = 'item', 		['image'] = 'welcomebooklet.png',	  ['unique'] = true,		['useable']	= true,		['shouldClose'] = true,	   ['combinable'] = nil,  ['description'] = "A Guidebook, for new-comers!"},
 ```
-Image for welcome booklet if wanted.
-
-![welcomebooklet](https://github.com/SirPieces/Esc-GuideBook/assets/47084448/1255367e-5361-46e8-bc70-2b514ae6deee)
-
-*Disclaimer i want to say that all credits goto EscStore, and all ive done is try implement it for QBCore.*
 
 Esc-GuideBook
 
@@ -17,6 +22,10 @@ Tebex : https://esc.tebex.io/category/escape
 Preview : https://youtu.be/f0ELwjZUdhE?si=citf1HE2rGRFXF5d
 
 Discord : https://discord.com/invite/823tgT9wnr
+
+Image for welcome booklet if wanted.
+
+![welcomebooklet](https://github.com/SirPieces/Esc-GuideBook/assets/47084448/1255367e-5361-46e8-bc70-2b514ae6deee)
 
 ![Example-1](https://github.com/escstore/Esc-GuideBook/assets/146175168/3ee6cad3-a4ff-4826-893d-8f5b38a32a72)
 
