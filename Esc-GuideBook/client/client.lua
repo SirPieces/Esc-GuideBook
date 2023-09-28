@@ -42,6 +42,12 @@ Citizen.CreateThread(function()
 	end
 end)
 
+RegisterNetEvent('esc-guidebook:open:book', function()
+    if not display then
+        OpenUI()
+    end
+end)
+
 function NearGuide()
     local pos = GetEntityCoords(GetPlayerPed(-1))
 

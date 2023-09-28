@@ -1,3 +1,4 @@
+local QBCore = exports['qb-core']:GetCoreObject()
 
 function checkVersion() 
     local versionUrl = "https://raw.githubusercontent.com/nxstore8/check_version_information/main/esc_loadingscreen.json"
@@ -21,6 +22,10 @@ function checkVersion()
         end
     end, "GET", "", {})
 end
+
+QBCore.Functions.CreateUseableItem("welcomebooklet", function(source)
+    TriggerClientEvent("esc-guidebook:open:book", source)
+end)
 
 Citizen.CreateThread(function()
     while true do
