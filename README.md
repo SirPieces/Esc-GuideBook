@@ -8,13 +8,14 @@ Discord : https://discord.com/invite/823tgT9wnr
 
 *Disclaimer i want to say that all credits goto EscStore, and all ive done is try implement it for QBCore.*
 
+``` ```
 ***Edit for QBCore***
 
 Add to items.lua
 ```	
 ['welcomebooklet']			  = {['name'] = "welcomebooklet",					['label'] = "Guide Book",			['weight'] = 500,		['type'] = 'item', 		['image'] = 'welcomebooklet.png',	  ['unique'] = true,		['useable']	= true,		['shouldClose'] = true,	   ['combinable'] = nil,  ['description'] = "A Guidebook, for new-comers!"},
 ```
-
+``` ```
 Esc-GuideBook
 
 Tebex : https://esc.tebex.io/category/escape
