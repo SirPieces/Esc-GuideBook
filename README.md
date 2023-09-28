@@ -1,9 +1,9 @@
 Edit for QBCore
 
 Add to items.lua
-	['welcomebooklet']			  = {['name'] = "welcomebooklet",					['label'] = "Guide Book",			['weight'] = 500,		['type'] = 'item', 		['image'] = 'welcomebooklet.png',			['unique'] = true,		['useable']	= true,		['shouldClose'] = true,	   ['combinable'] = nil, 
-  ['description'] = "A Guidebook, for new-comers!"},
-
+```	
+['welcomebooklet']			  = {['name'] = "welcomebooklet",					['label'] = "Guide Book",			['weight'] = 500,		['type'] = 'item', 		['image'] = 'welcomebooklet.png',	  ['unique'] = true,		['useable']	= true,		['shouldClose'] = true,	   ['combinable'] = nil,  ['description'] = "A Guidebook, for new-comers!"},
+```
 Image for welcome booklet if wanted.
 
 ![welcomebooklet](https://github.com/SirPieces/Esc-GuideBook/assets/47084448/1255367e-5361-46e8-bc70-2b514ae6deee)
