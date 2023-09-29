@@ -6,7 +6,7 @@ Preview : https://youtu.be/f0ELwjZUdhE?si=citf1HE2rGRFXF5d
 
 Discord : https://discord.com/invite/823tgT9wnr
 
-*Disclaimer i want to say that all credits goto EscStore, and all ive done is try implement it for QBCore.*
+*Disclaimer i want to say that all credits goto EscStore, and all ive done is implement it for QBCore.*
 
 ``` ```
 ***Edit for QBCore***
